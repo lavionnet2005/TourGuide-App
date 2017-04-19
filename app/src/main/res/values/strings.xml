@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">TourGuideApp</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="palo_alto">Palo Alto, CA</string>
+    <string name="hotels">Hotels</string>
+    <string name="res">Restaurants</string>
+    <string name="active">Active Life</string>
+    <string name="shopping">Shopping Malls</string>
+    <string name="bars">Bars</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- ActiveLifeFragment texts -->
+    <string name="zip">94301</string>
+    <string name="four">4.0</string>
+    <string name="f_5">4.5</string>
+    <string name="acname1">The Dish - Stanford Foothills</string>
+    <string name="acaddress1">Stanford Ave &amp; Junipero Serra Blvd</string>
+    <string name="acname2">Palomo Archery</string>
+    <string name="acaddress2">4022 Transport</string>
+    <string name="acname3">Uforia Studios</string>
+    <string name="acaddress3">819 Ramona St</string>
+    <string name="best_hotels">"Best Hotels"</string>
+    <string name="best_res">Best Restaurants</string>
+    <string name="best_bars">Best Bars</string>
+    <string name="best_malls">Best Shopping Malls</string>
+    <string name="best_life">Best Active Life</string>
+
+
+
+
+</resources>

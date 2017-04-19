@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/city_hotels"
+            android:icon="@drawable/ic_hoel_1_24dp"
+            android:title="@string/hotels" />
+        <item
+            android:id="@+id/city_restaurants"
+            android:icon="@drawable/ic_res_24dp"
+            android:title="@string/res" />
+        <item
+            android:id="@+id/city_Bars"
+            android:icon="@drawable/ic_bars_24dp"
+            android:title="@string/bars" />
+        <item
+            android:id="@+id/city_shopping"
+            android:icon="@drawable/ic_local_mall_black_24dp"
+            android:title="@string/shopping" />
+        <item
+            android:id="@+id/city_parks"
+            android:icon="@drawable/ic_activelife_24dp"
+            android:title="@string/active" />
+    </group>
+
+</menu>
